@@ -1,9 +1,9 @@
 # Hebberly Ahatlan
 Hey there, I am marketer with more than fifteen years of experince in the tech sector lauching both software and hardware products covering AI, LLMs, Blockchain, SaaS, electronics, and semiconductor solutions. I have experience leading marketing organizations and defining marketing strategy in startup environments. I am available for contract and long term projets.
 
-<b> Work Experience </b>  <a href="https://www.linkedin.com/in/hebbaa/"> Linkedin  </a>
+<b> Work Experience </b>  <a> href="https://www.linkedin.com/in/hebbaa/"> Linkedin  </a>
 
-Creative Work    https://www.flickr.com/people/audiblecolor/
+<b> Creative Work </b>    https://www.flickr.com/people/audiblecolor/
 
 Portfolio of Marketing Work ( articles, papers, videos, collateral etc. ) 
 
