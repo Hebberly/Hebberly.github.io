@@ -28,7 +28,7 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://journals.scholarsportal.info/details/26878860/v2023inone/1_astmfeaiwsds.xml">Journals Scholars Portal</a>
 
-<a href="https://www.intertrust.com/blog/what-is-iot-authentication-and-why-does-it-matter/" rel="noreferrer nofollow">www.intertrust.com/blog/what-is-iot-authentication-and-wh...</a>
+<a href="https://www.intertrust.com/blog/what-is-iot-authentication-and-why-does-it-matter/">What is Iot Authentication</a>
 
 <a href="https://ieeexplore.ieee.org/document/10293630" rel="noreferrer nofollow">ieeexplore.ieee.org/document/10293630</a>
 
