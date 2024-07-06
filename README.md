@@ -10,7 +10,7 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://www.thefastmode.com/expert-opinion/34122-fighting-digital-pirates-on-the-informational-high-seas">Fighting Digital Pirates on the Informational High Seas</a>
 
-<a href="https://www.smart-energy.com/industry-sectors/cybersecurity/future-priorities-for-ai-in-an-evolving-digital-energy-cyber-security-regulatory-framework/" rel="noreferrer nofollow">www.smart-energy.com/industry-sectors/cybersecurity/futur...</a>
+<a href="https://www.smart-energy.com/industry-sectors/cybersecurity/future-priorities-for-ai-in-an-evolving-digital-energy-cyber-security-regulatory-framework/">Future Priorities for AI in an Evolving Digital Energy Cybersecurity Regulatory Framework</a>
 
 <a href="https://www.spiceworks.com/tech/iot/guest-article/data-security-in-connected-vehicles/">Data Security in Connected Vehicles</a>
 
