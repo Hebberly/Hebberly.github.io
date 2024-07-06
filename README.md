@@ -28,7 +28,7 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://journals.scholarsportal.info/details/26878860/v2023inone/1_astmfeaiwsds.xml">Journals Scholars Portal</a>
 
-<a href="https://www.intertrust.com/blog/what-is-iot-authentication-and-why-does-it-matter/">What is Iot Authentication</a>
+<a href="https://www.intertrust.com/blog/what-is-iot-authentication-and-why-does-it-matter/">What is IoT Authentication</a>
 
 <a href="https://ieeexplore.ieee.org/document/10293630">ieeexplore.ieee.org/document/10293630</a>
 
@@ -46,11 +46,11 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 YouTube
 
-<a href="https://marketscale.com/industries/energy/cybersecurity-of-the-electric-grid/">Grid Cybersecurity.</a>
+<a href="https://marketscale.com/industries/energy/cybersecurity-of-the-electric-grid/">Grid Cybersecurity Distributech 2024</a>
 
-<a href="https://www.intertrust.com/resources/build-or-buy-your-pki-for-iot/thank-you-26724/" rel="noreferrer nofollow">www.intertrust.com/resources/build-or-buy-your-pki-for-io...</a>
+<a href="https://www.intertrust.com/resources/build-or-buy-your-pki-for-iot/thank-you-26724/">Build or Buy Your PKI for IoT</a>
 
-<a href="https://www.youtube.com/watch?v=KK5ivoFO4dU" rel="noreferrer nofollow">www.youtube.com/watch?v=KK5ivoFO4dU</a>
+<a href="https://www.youtube.com/watch?v=KK5ivoFO4dU">www.youtube.com/watch?v=KK5ivoFO4dU</a>
 
 <a href="https://www.youtube.com/watch?v=NkLOEvs9AbE" rel="noreferrer nofollow">www.youtube.com/watch?v=NkLOEvs9AbE</a>
 
