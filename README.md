@@ -18,11 +18,9 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://www.linkedin.com/pulse/impact-canceling-renewable-energy-projects-ai-hebberly-ahatlan-79nbc/">Impact of Canceling Renewable Energy Projects</a>
 
-<a href="https://www.spiceworks.com/it-security/data-security/guest-article/the-role-of-data-governance-in-driving-cx-innovation-maritime-ops/">The Role of Data Governance in Driving CX Innovation</a>
+<a href="https://www.spiceworks.com/it-security/data-security/guest-article/the-role-of-data-governance-in-driving-cx-innovation-maritime-ops/">The Role of Data Governance in Driving CX and Innovation</a>
 
-<a href="https://www.thefastmode.com/expert-opinion/34122-fighting-digital-pirates-on-the-informational-high-seas" rel="noreferrer nofollow">www.thefastmode.com/expert-opinion/34122-fighting-digital...</a>
-
-<a href="https://www.spiceworks.com/it-security/data-security/guest-article/data-privacy-nightmares-in-smart-cars-understanding-the-risks/" rel="noreferrer nofollow">www.spiceworks.com/it-security/data-security/guest-articl...</a>
+<a href="https://www.spiceworks.com/it-security/data-security/guest-article/data-privacy-nightmares-in-smart-cars-understanding-the-risks/">Data Privacy Nightmares in Smart Cars Understanding the Risks</a>
 
 <a href="https://dblp.dagstuhl.de/pid/360/4967.html" rel="noreferrer nofollow">dblp.dagstuhl.de/pid/360/4967.html</a>
 
