@@ -30,11 +30,10 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://www.intertrust.com/blog/what-is-iot-authentication-and-why-does-it-matter/">What is Iot Authentication</a>
 
-<a href="https://ieeexplore.ieee.org/document/10293630" rel="noreferrer nofollow">ieeexplore.ieee.org/document/10293630</a>
+<a href="https://ieeexplore.ieee.org/document/10293630">ieeexplore.ieee.org/document/10293630</a>
 
-<a href="https://publications.waset.org/abstracts/172857/a-proposal-for-a-secure-and-interoperable-data-framework-for-energy-digitalization" rel="noreferrer nofollow">publications.waset.org/abstracts/172857/a-proposal-for-a-...</a>
-
-<a href="https://mccsis.org/wp-content/uploads/2023/07/CSC2023_R_026.pdf" rel="noreferrer nofollow">mccsis.org/wp-content/uploads/2023/07/CSC2023_R_026.pdf</a>
+<a href="https://mccsis.org/wp-content/uploads/2023/07/CSC2023_R_026.pdf](https://smartcities-conf.org/oldconferences/2023/wp-content/uploads/2023/07/Program-CGV_GET_IHCI_BIGDACI_CSC_2023.pdf">
+Overcoming Zero Trust Environments for Smart City Data and Devices</a>
 
 <a href="https://www.linkedin.com/pulse/where-insecure-pki-goes-wrong-intertrust" rel="noreferrer nofollow">www.linkedin.com/pulse/where-insecure-pki-goes-wrong-inte...</a>
 
