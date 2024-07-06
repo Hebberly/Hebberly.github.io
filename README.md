@@ -6,9 +6,9 @@ Hey there, I am marketer with more than fifteen years of experince in the tech s
 
 Portfolio of Marketing Work ( articles, papers, videos, collateral etc. ) 
 
-<a href="https://www.smart-energy.com/industry-sectors/electric-vehicles/safeguarding-battery-systems-and-data-in-the-age-of-evs/"> Safeguarding Data in the Age of EVs</a>
+<a href="https://publications.waset.org/10013609/a-proposal-for-a-secure-and-interoperable-data-framework-for-energy-digitalization">Proposal for Secure Interoperable Energy Data Frameworks</a>
 
-<a href="https://publications.waset.org/10013609/a-proposal-for-a-secure-and-interoperable-data-framework-for-energy-digitalization">a-proposal-for-a-secure-and-interoperable-data-framework-for-energy-digitalization</a>
+<a href="https://www.smart-energy.com/industry-sectors/electric-vehicles/safeguarding-battery-systems-and-data-in-the-age-of-evs/"> Safeguarding Data in the Age of EVs</a>
 
 <a href="https://www.spiceworks.com/tech/iot/guest-article/data-security-in-connected-vehicles/" rel="noreferrer nofollow">www.spiceworks.com/tech/iot/guest-article/data-security-i...</a>?
 
