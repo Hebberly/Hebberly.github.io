@@ -36,7 +36,7 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://www.linkedin.com/pulse/where-insecure-pki-goes-wrong-intertrust">Where Insecure PKI Goes Wrong</a>
 
-<a href="https://www.intertrust.com/blog/7-ways-iot-device-security-can-fail/">7 Ways IoT Device Security Can Fail/</a>
+<a href="https://www.intertrust.com/blog/7-ways-iot-device-security-can-fail/">7 Ways IoT Device Security Can Fail</a>
 
 <a href="https://www.intertrust.com/blog/capabilities-ai-driven-data-environment">Capabilities of AI Driven Data Environments</a>
 
