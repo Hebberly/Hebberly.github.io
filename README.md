@@ -1,4 +1,7 @@
 # Hebberly.github.io
+
+I am marketer with more than fifteen years of experince in the tech sector lauching both software and hardware products covering AI, LLMs, Blockchain, SaaS, electronics, and semiconductor solutions. https://www.linkedin.com/in/hebbaa/ I have experience leading marketing organizations and defining marketing strategy in startup environments. I am available for contract and long term projets.
+
 Portfolio of Marketing Work
 
 <a href="https://www.smart-energy.com/industry-sectors/electric-vehicles/safeguarding-battery-systems-and-data-in-the-age-of-evs/" rel="noreferrer nofollow">www.smart-energy.com/industry-sectors/electric-vehicles/s...</a>
