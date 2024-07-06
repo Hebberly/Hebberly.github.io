@@ -34,21 +34,19 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://smartcities-conf.org/oldconferences/2023/wp-content/uploads/2023/07/Program-CGV_GET_IHCI_BIGDACI_CSC_2023.pdf">Overcoming Zero Trust Environments for Smart City Data and Devices</a>
 
-<a href="https://www.linkedin.com/pulse/where-insecure-pki-goes-wrong-intertrust" rel="noreferrer nofollow">www.linkedin.com/pulse/where-insecure-pki-goes-wrong-inte...</a>
+<a href="https://www.linkedin.com/pulse/where-insecure-pki-goes-wrong-intertrust">Where Insecure PKI Goes Wrong</a>
 
-<a href="https://www.intertrust.com/blog/7-ways-iot-device-security-can-fail/" rel="noreferrer nofollow">www.intertrust.com/blog/7-ways-iot-device-security-can-fail/</a>
+<a href="https://www.intertrust.com/blog/7-ways-iot-device-security-can-fail/">7 Ways IoT Device Security Can Fail/</a>
 
-<a href="https://www.intertrust.com/blog/capabilities-ai-driven-data-environment" rel="noreferrer nofollow">www.intertrust.com/blog/capabilities-ai-driven-data-envir...</a>
+<a href="https://www.intertrust.com/blog/capabilities-ai-driven-data-environment">Capabilities of AI Driven Data Environments</a>
 
-<a href="https://www.intertrust.com/blog/7-ways-iot-device-security-can-fail/" rel="noreferrer nofollow">www.intertrust.com/blog/7-ways-iot-device-security-can-fail/</a>
+<a href="https://www.intertrust.com/blog/what-is-data-agility/">What is Data Agility</a>
 
-<a href="https://www.intertrust.com/blog/what-is-data-agility/" rel="noreferrer nofollow">www.intertrust.com/blog/what-is-data-agility/</a>
-
-<a href="https://www.intertrust.com/blog/building-the-smart-transport-networks-of-the-future/" rel="noreferrer nofollow">www.intertrust.com/blog/building-the-smart-transport-netw...</a>
+<a href="https://www.intertrust.com/blog/building-the-smart-transport-networks-of-the-future/">Building the Smart Transport Networks of the Future</a>
 
 YouTube
 
-<a href="https://marketscale.com/industries/energy/cybersecurity-of-the-electric-grid/" rel="noreferrer nofollow">marketscale.com/industries/energy/cybersecurity-of-the-el...</a>
+<a href="https://marketscale.com/industries/energy/cybersecurity-of-the-electric-grid/">Grid Cybersecurity.</a>
 
 <a href="https://www.intertrust.com/resources/build-or-buy-your-pki-for-iot/thank-you-26724/" rel="noreferrer nofollow">www.intertrust.com/resources/build-or-buy-your-pki-for-io...</a>
 
