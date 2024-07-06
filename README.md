@@ -2,11 +2,11 @@
 Hey there, I am marketer with more than fifteen years of experince in the tech sector lauching both software and hardware products covering AI, LLMs, Blockchain, SaaS, electronics, and semiconductor solutions. I have experience leading marketing organizations and defining marketing strategy in startup environments. I am available for contract and long term projets.
 
 <b> Work Experience </b>  <a href="https://www.linkedin.com/in/hebbaa/"> Linkedin  </a> 
-     <b> Creative Work </b>    <a href="https://www.flickr.com/photos/audiblecolor/"> Flickr </a>
+<b> Creative Work </b>    <a href="https://www.flickr.com/photos/audiblecolor/"> Flickr </a>
 
 Portfolio of Marketing Work ( articles, papers, videos, collateral etc. ) 
 
-<a href="https://www.smart-energy.com/industry-sectors/electric-vehicles/safeguarding-battery-systems-and-data-in-the-age-of-evs/">www.smart-energy.com/industry-sectors/electric-vehicles/s...</a>
+<a href="https://www.smart-energy.com/industry-sectors/electric-vehicles/safeguarding-battery-systems-and-data-in-the-age-of-evs/"> Safeguarding Data in the Age of EVs</a>
 
 https://www.smart-energy.com/industry-sectors/electric-vehicles/safeguarding-battery-systems-and-data-in-the-age-of-evs/
 
