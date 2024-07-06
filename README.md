@@ -50,9 +50,9 @@ YouTube
 
 <a href="https://www.intertrust.com/resources/build-or-buy-your-pki-for-iot/thank-you-26724/">Build or Buy Your PKI for IoT</a>
 
-<a href="https://www.youtube.com/watch?v=KK5ivoFO4dU">www.youtube.com/watch?v=KK5ivoFO4dU</a>
+<a href="https://www.youtube.com/watch?v=KK5ivoFO4dU">Choosing the Right Passive with RedExoert and Hebberly Ahatlan</a>
 
-<a href="https://www.youtube.com/watch?v=NkLOEvs9AbE" rel="noreferrer nofollow">www.youtube.com/watch?v=NkLOEvs9AbE</a>
+<a href="https://www.youtube.com/watch?v=NkLOEvs9AbE">www.youtube.com/watch?v=NkLOEvs9AbE</a>
 
 Google Maps
 
