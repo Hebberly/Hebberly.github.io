@@ -32,8 +32,7 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://ieeexplore.ieee.org/document/10293630">ieeexplore.ieee.org/document/10293630</a>
 
-<a href="https://mccsis.org/wp-content/uploads/2023/07/CSC2023_R_026.pdf](https://smartcities-conf.org/oldconferences/2023/wp-content/uploads/2023/07/Program-CGV_GET_IHCI_BIGDACI_CSC_2023.pdf">
-Overcoming Zero Trust Environments for Smart City Data and Devices</a>
+<a href="https://smartcities-conf.org/oldconferences/2023/wp-content/uploads/2023/07/Program-CGV_GET_IHCI_BIGDACI_CSC_2023.pdf">Overcoming Zero Trust Environments for Smart City Data and Devices</a>
 
 <a href="https://www.linkedin.com/pulse/where-insecure-pki-goes-wrong-intertrust" rel="noreferrer nofollow">www.linkedin.com/pulse/where-insecure-pki-goes-wrong-inte...</a>
 
