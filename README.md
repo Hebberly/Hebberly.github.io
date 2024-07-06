@@ -44,6 +44,12 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://www.intertrust.com/blog/building-the-smart-transport-networks-of-the-future/">Building the Smart Transport Networks of the Future</a>
 
+Affiliations
+
+<a href="https://scholar.google.com/citations?user=UYkwnyQAAAAJ&hl=en">Google Scholar</a>
+
+<a href="https://orcid.org/0009-0004-4440-950X">Orcid.org</a>
+
 YouTube
 
 <a href="https://marketscale.com/industries/energy/cybersecurity-of-the-electric-grid/">Grid Cybersecurity Distributech 2024</a>
@@ -76,7 +82,6 @@ Product Pages with Documentation:
 
 <a href="https://www.alphyco.com/support">www.alphyco.com/support</a>
 
-
 Webinars and podcasts:
 
 <a href="https://event.on24.com/wcc/r/3860964/BAA5FC8B514EC9C56273B57ECD9C4F71">event.on24.com/wcc/r/3860964/BAA5FC8B514EC9C56273B57ECD9C...</a>
@@ -85,22 +90,15 @@ Webinars and podcasts:
 
 <a href="https://www.eejournal.com/chalk_talks/usb-type-c-wireless-power-charging-wurth-electronik-and-mouser-electronics/"> EEjournal USB C Wireless Power Hebberly Ahatlan</a>
 
-
 TradeShows:
 
-<a href="https://studio.marketscale.com/StudioMail/Agdem1NrlYZO6VLRxvw3nBywEl9M05EaDokGJ89b4pyKXWP7">Marketscale.com Grid Cybersecurity Hebberly Ahatlan.</a>
+<a href="https://studio.marketscale.com/StudioMail/Agdem1NrlYZO6VLRxvw3nBywEl9M05EaDokGJ89b4pyKXWP7">Marketscale.com Grid Cybersecurity Hebberly Ahatlan</a>
 
 <a href="https://www.eventscribe.com/2020/apec-conf/fsPopup.asp?Mode=presenterInfo&PresenterID=826177">APEC</a>
 
 <a href="https://epapers.org/apec2020-is/ESR/session_view.php?PHPSESSID=pj745chs3bbhe4299k51t0ahd5&session_id=14">epapers.org/apec2020-is/ESR/session_view.php?PHPSESSID=pj...</a>
 
 <a href="https://epapers.org/apec2020-is/ESR/session_view.php?PHPSESSID=u8b7mbt2hkgidguvhl6rouuvg6&session_id=12">epapers.org/apec2020-is/ESR/session_view.php?PHPSESSID=u8...</a>
-
-Affiliations
-
-<a href="https://scholar.google.com/citations?user=UYkwnyQAAAAJ&hl=en">scholar.google.com/citations?user=UYkwnyQAAAAJ&hl=en</a>
-
-<a href="https://orcid.org/0009-0004-4440-950X">Orcid.org/0009-0004-4440-950X</a>
 
 Misc
 
