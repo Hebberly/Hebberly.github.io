@@ -24,9 +24,9 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://dblp.dagstuhl.de/pid/360/4967.html">Schloss Dagstuhl</a>
 
-<a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/37891-safeguarding-against-cyberattacks-with-zero-trust-architecture" rel="noreferrer nofollow">www.supplychainbrain.com/blogs/1-think-tank/post/37891-sa...</a>
+<a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/37891-safeguarding-against-cyberattacks-with-zero-trust-architecture">Safeguarding Against Cyberattacks with Zero Trust Architecture</a>
 
-<a href="https://journals.scholarsportal.info/details/26878860/v2023inone/1_astmfeaiwsds.xml" rel="noreferrer nofollow">journals.scholarsportal.info/details/26878860/v2023inone/...</a>
+<a href="https://journals.scholarsportal.info/details/26878860/v2023inone/1_astmfeaiwsds.xml">Journals Scholars Portal</a>
 
 <a href="https://www.intertrust.com/blog/what-is-iot-authentication-and-why-does-it-matter/" rel="noreferrer nofollow">www.intertrust.com/blog/what-is-iot-authentication-and-wh...</a>
 
