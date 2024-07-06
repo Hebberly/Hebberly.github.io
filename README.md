@@ -7,6 +7,8 @@ Creative Work    https://www.flickr.com/people/audiblecolor/
 
 Portfolio of Marketing Work ( articles, papers, videos, collateral etc. ) 
 
+<a href="https://www.smart-energy.com/industry-sectors/electric-vehicles/safeguarding-battery-systems-and-data-in-the-age-of-evs/">www.smart-energy.com/industry-sectors/electric-vehicles/s...</a>
+
 https://www.smart-energy.com/industry-sectors/electric-vehicles/safeguarding-battery-systems-and-data-in-the-age-of-evs/
 
 <a href="https://publications.waset.org/10013609/a-proposal-for-a-secure-and-interoperable-data-framework-for-energy-digitalization" rel="noreferrer nofollow">publications.waset.org/10013609/a-proposal-for-a-secure-a...</a>
