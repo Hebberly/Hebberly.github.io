@@ -16,7 +16,7 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://www.smart-energy.com/industry-sectors/electric-vehicles/safeguarding-battery-systems-and-data-in-the-age-of-evs/"> Safeguarding Data in the Age of EVs</a>
 
-<a href="https://www.linkedin.com/pulse/impact-canceling-renewable-energy-projects-ai-hebberly-ahatlan-79nbc/" rel="noreferrer nofollow">www.linkedin.com/pulse/impact-canceling-renewable-energy-...</a>
+<a href="https://www.linkedin.com/pulse/impact-canceling-renewable-energy-projects-ai-hebberly-ahatlan-79nbc/">Impact Canceling Renewable Energy</a>
 
 <a href="https://www.spiceworks.com/it-security/data-security/guest-article/the-role-of-data-governance-in-driving-cx-innovation-maritime-ops/" rel="noreferrer nofollow">www.spiceworks.com/it-security/data-security/guest-articl...</a>
 
