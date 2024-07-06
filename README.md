@@ -3,7 +3,7 @@ Hey there, I am marketer with more than fifteen years of experince in the tech s
 
 <b> Work Experience </b>  <a href="https://www.linkedin.com/in/hebbaa/"> Linkedin  </a>
 
-<b> Creative Work </b>    <a href="https://www.flickr.com/photos/audiblecolor/" Flickr </a>
+<b> Creative Work </b>    <a href="https://www.flickr.com/photos/audiblecolor/"> Flickr </a>
 
 Portfolio of Marketing Work ( articles, papers, videos, collateral etc. ) 
 
