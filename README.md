@@ -20,9 +20,9 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://www.spiceworks.com/it-security/data-security/guest-article/the-role-of-data-governance-in-driving-cx-innovation-maritime-ops/">The Role of Data Governance in Driving CX and Innovation</a>
 
-<a href="https://www.spiceworks.com/it-security/data-security/guest-article/data-privacy-nightmares-in-smart-cars-understanding-the-risks/">Data Privacy Nightmares in Smart Cars Understanding the Risks</a>
+<a href="https://www.spiceworks.com/it-security/data-security/guest-article/data-privacy-nightmares-in-smart-cars-understanding-the-risks/">Data Privacy Nightmares in Smart Cars, Understanding the Risks</a>
 
-<a href="https://dblp.dagstuhl.de/pid/360/4967.html" rel="noreferrer nofollow">dblp.dagstuhl.de/pid/360/4967.html</a>
+<a href="https://dblp.dagstuhl.de/pid/360/4967.html">dblp.dagstuhl.de/pid/360/4967.html</a>
 
 <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/37891-safeguarding-against-cyberattacks-with-zero-trust-architecture" rel="noreferrer nofollow">www.supplychainbrain.com/blogs/1-think-tank/post/37891-sa...</a>
 
