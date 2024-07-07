@@ -115,6 +115,8 @@ Misc
 
 <a href="https://www.linkedin.com/posts/hebbaa_activity-7193598625430532098-vEoR/">www.linkedin.com/posts/hebbaa_activity-719359862543053209...</a>
 
+<a href="http://www.d1net.com/bigdata/news/580455.html">bigdata/news/580455</a>
+
 <a href="https://www.intertrust.com/blog/secure-key-provisioning/">www.intertrust.com/blog/secure-key-provisioning/</a>
 
 <a href="https://x.com/SmartEnergyTV/status/1801631365047157114">x.com/SmartEnergyTV/status/1801631365047157114</a>
