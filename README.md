@@ -14,6 +14,8 @@ Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )
 
 <a href="https://www.spiceworks.com/tech/iot/guest-article/data-security-in-connected-vehicles/">Data Security in Connected Vehicles</a>
 
+<a href="https://www.51cto.com/article/780346.html">数据治理在推动客户体验、创新和海运运营中的作用</a>
+
 <a href="https://www.smart-energy.com/industry-sectors/electric-vehicles/safeguarding-battery-systems-and-data-in-the-age-of-evs/"> Safeguarding Data in the Age of EVs</a>
 
 <a href="https://www.linkedin.com/pulse/impact-canceling-renewable-energy-projects-ai-hebberly-ahatlan-79nbc/">Impact of Canceling Renewable Energy Projects</a>
@@ -102,7 +104,7 @@ TradeShows:
 
 Social Causes
 
-<a href="https://erafoen.org/wp-content/uploads/2017/09/Signatures_on_Okomu_Petition_Edo_State.pdf">Social Petitions</a>
+<a href="https://erafoen.org/wp-content/uploads/2017/09/Signatures_on_Okomu_Petition_Edo_State.pdf">Petitions</a>
 
 
 Misc
