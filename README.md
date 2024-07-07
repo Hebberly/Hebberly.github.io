@@ -129,6 +129,8 @@ Misc
 
 <a href="https://www.fiverr.com/s/LG6P9L">www.fiverr.com/s/LG6P9L</a>
 
+<a href="https://www.cleantechfocus.com/building-energy-monitoring/electric-vehicle/energy-monitor/">building-energy-monitoring/electric-vehicle/energy-monitor</a>
+
 <a href="https://wanderlog.com/list/geoCategory/1478469/best-areas-to-stay-in-porto">wanderlog.com/list/geoCategory/1478469/best-areas-to-stay-in-porto</a>
 
 <a href="https://wanderlog.com/place/details/3841725/caf-pia">wanderlog.com/place/details/3841725/cafe-pia</a>
