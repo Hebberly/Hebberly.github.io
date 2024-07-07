@@ -117,6 +117,8 @@ Misc
 
 <a href="http://www.d1net.com/bigdata/news/580455.html">bigdata/news/580455</a>
 
+<a href="https://cdait.gatech.edu/sites/default/files/2023-10/GT_CDAIT_Biweekly_IoT_News_Digest_10_2023_2.pdf">GT CDAIT Biweekly IoT News Digest</a>
+
 <a href="https://www.intertrust.com/blog/secure-key-provisioning/">www.intertrust.com/blog/secure-key-provisioning/</a>
 
 <a href="https://x.com/SmartEnergyTV/status/1801631365047157114">x.com/SmartEnergyTV/status/1801631365047157114</a>
