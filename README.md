@@ -100,11 +100,17 @@ TradeShows:
 
 <a href="https://epapers.org/apec2020-is/ESR/session_view.php?PHPSESSID=u8b7mbt2hkgidguvhl6rouuvg6&session_id=12">epapers.org/apec2020-is/ESR/session_view.php?PHPSESSID=u8...</a>
 
+Social Causes
+
+<a href="https://erafoen.org/wp-content/uploads/2017/09/Signatures_on_Okomu_Petition_Edo_State.pdf">Social Petitions</a>
+
+
 Misc
 
 <a href="https://journals.scholarsportal.info/search?q=Hebberly E. Ahatlan&search_in=AUTHOR&sub=">journals.scholarsportal.info/search?q=Hebberly%20E.%20Aha...</a>
 
 <a href="https://www.thefastmode.com/author/3424-hebberlyahatlan">www.thefastmode.com/author/3424-hebberlyahatlan</a>
+
 <a href="https://www.linkedin.com/posts/hebbaa_activity-7193598625430532098-vEoR/">www.linkedin.com/posts/hebbaa_activity-719359862543053209...</a>
 
 <a href="https://www.intertrust.com/blog/secure-key-provisioning/">www.intertrust.com/blog/secure-key-provisioning/</a>
