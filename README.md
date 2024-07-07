@@ -131,4 +131,6 @@ Misc
 
 <a href="https://wanderlog.com/list/geoCategory/1478469/best-areas-to-stay-in-porto">wanderlog.com/list/geoCategory/1478469/best-areas-to-stay-in-porto</a>
 
+<a href="https://wanderlog.com/place/details/3841725/caf-pia">wanderlog.com/place/details/3841725/caf-pia</a>
+
 <a href="https://wanderlog.com/reservations/5169048/bambinos-ristorante-reservations">wanderlog.com/reservations/5169048/bambinos-ristorante-re...</a>
