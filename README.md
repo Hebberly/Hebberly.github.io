@@ -133,6 +133,8 @@ Misc
 
 <a href="https://www.fiverr.com/s/LG6P9L">www.fiverr.com/s/LG6P9L</a>
 
+<a href="https://epapers.org/apec2020-is/ESR/session_view.php?PHPSESSID=u8b7mbt2hkgidguvhl6rouuvg6&session_id=12">epapers.org/apec2020-is/ESR/session_view</a>
+
 <a href="https://www.cleantechfocus.com/building-energy-monitoring/electric-vehicle/energy-monitor/">building-energy-monitoring/electric-vehicle/energy-monitor</a>
 
 <a href="https://wanderlog.com/list/geoCategory/1478469/best-areas-to-stay-in-porto">wanderlog.com/list/geoCategory/1478469/best-areas-to-stay-in-porto</a>
