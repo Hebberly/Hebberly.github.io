@@ -142,3 +142,5 @@ Misc
 <a href="https://wanderlog.com/place/details/3841725/caf-pia">wanderlog.com/place/details/3841725/cafe-pia</a>
 
 <a href="https://wanderlog.com/reservations/5169048/bambinos-ristorante-reservations">wanderlog.com/reservations/5169048/bambinos-ristorante-re...</a>
+
+<a href="https://restaurantguru.com/Simple-Joy-Honolulu#google_vignette">Simple-Joy-Honolulu#google_vignette</a>
