@@ -143,4 +143,4 @@ Misc
 
 <a href="https://wanderlog.com/reservations/5169048/bambinos-ristorante-reservations">wanderlog.com/reservations/5169048/bambinos-ristorante-re...</a>
 
-<a href="https://restaurantguru.com/Simple-Joy-Honolulu#google_vignette">Simple-Joy-Honolulu#google_vignette</a>
+<a href="https://restaurantguru.com/Simple-Joy-Honolulu#google_vignette">Simple Joy Honolulu Restaurant Review</a>
