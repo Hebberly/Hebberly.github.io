@@ -106,11 +106,6 @@ TradeShows:
 
 <a href="https://epapers.org/apec2020-is/ESR/session_view.php?PHPSESSID=u8b7mbt2hkgidguvhl6rouuvg6&session_id=12">epapers.org/apec2020-is/ESR/session_view.php?PHPSESSID=u8...</a>
 
-Social Causes
-
-<a href="https://erafoen.org/wp-content/uploads/2017/09/Signatures_on_Okomu_Petition_Edo_State.pdf">Petitions</a>
-
-
 Misc
 
 <a href="https://journals.scholarsportal.info/search?q=Hebberly E. Ahatlan&search_in=AUTHOR&sub=">journals.scholarsportal.info/search?q=Hebberly%20E.%20Aha...</a>
@@ -150,5 +145,9 @@ Misc
 <a href="https://wanderlog.com/reservations/5169048/bambinos-ristorante-reservations">wanderlog.com/reservations/5169048/bambinos-ristorante-re...</a>
 
 <a href="https://restaurantguru.com/Simple-Joy-Honolulu#google_vignette">Simple Joy Honolulu Restaurant Review</a>
+
+Social Causes
+
+<a href="https://erafoen.org/wp-content/uploads/2017/09/Signatures_on_Okomu_Petition_Edo_State.pdf">Petitions</a>
 
 Created by Hebberly Ahatlan © 2025 
