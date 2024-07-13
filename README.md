@@ -1,6 +1,11 @@
 # Hebberly Ahatlan
 
-<title>Hebberly Ahatlan Biography and Portfolio</title>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bio</title>
+</head>
+<body>
 
 I'm a marketer with more than fifteen years of experince in the tech sector lauching both software and hardware products covering AI, LLMs, Blockchain, SaaS, electronics, and semiconductor solutions. I have experience leading marketing organizations and defining marketing strategy in startup environments. I am available for contract and long term projets.
 
