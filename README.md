@@ -78,11 +78,11 @@ Video Copy:
 
 Product Pages with Documentation:
 
+<a href="https://www.analog.com/en/products/lt8253.html">www.analog.com/en/products/lt8253.html</a>
+
 <a href="https://www.alphyco.com/">www.alphyco.com</a>
 
 <a href="https://transportation.trimble.com/telematics-artificial-intelligence">Trimble Telematics Artificial Intelligence</a>
-
-<a href="https://www.analog.com/en/products/lt8253.html">www.analog.com/en/products/lt8253.html</a>
 
 <a href="https://www.analog.com/en/products/lt8336.html#product-overview">www.analog.com/en/products/lt8336.html#product-overview</a>
 
