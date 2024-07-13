@@ -5,7 +5,7 @@
 <head>
 Biography and Experience
 </head>
-<body></body>
+<body>
 Marketer with more than fifteen years of experince in the tech sector lauching both software and hardware products covering AI, LLMs, Blockchain, SaaS, electronics, and semiconductor solutions. I have experience leading marketing organizations and defining marketing strategy in startup environments. I am available for contract and long term projets.
 
 <b> Work Experience </b>  <a href="https://www.linkedin.com/in/hebbaa/"> Linkedin  </a> 
@@ -153,3 +153,4 @@ Misc
 <a href="https://wanderlog.com/reservations/5169048/bambinos-ristorante-reservations">wanderlog.com/reservations/5169048/bambinos-ristorante-re...</a>
 
 <a href="https://restaurantguru.com/Simple-Joy-Honolulu#google_vignette">Simple Joy Honolulu Restaurant Review</a>
+</body>
