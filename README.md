@@ -7,7 +7,6 @@ Marketer with more than fifteen years of experience launching software and hardw
 <b> Work Experience </b>  <a href="https://www.linkedin.com/in/hebbaa/"> Linkedin  </a> 
 
 <b> Creative Work </b>    <a href="https://www.flickr.com/photos/audiblecolor/"> Flickr </a>
-
 <br></br>
 <b><i>Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )</i></b>
 
