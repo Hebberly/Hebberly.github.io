@@ -10,7 +10,7 @@ Marketer with more than fifteen years of experience launching software and hardw
 
 
 
-<bold>Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )</bold>
+<b><i>Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )</i></b>
 
 <a href="https://www.thefastmode.com/expert-opinion/34122-fighting-digital-pirates-on-the-informational-high-seas">Fighting Digital Pirates on the Informational High Seas</a>
 
