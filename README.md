@@ -72,7 +72,7 @@ Google Maps
 
 <a href="https://maps.app.goo.gl/yZbLy8kMjzPFdPk28">maps.app.goo.gl/yZbLy8kMjzPFdPk28</a>
 
-Video Product Promotions Copy:
+Video Copy:
 
 <a href="https://www.youtube.com/watch?v=8KjupvH8ORU">www.youtube.com/watch?v=8KjupvH8ORU</a>
 
