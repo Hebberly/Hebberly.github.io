@@ -7,8 +7,8 @@ Marketer with more than fifteen years of experience launching software and hardw
 <b> Work Experience </b>  <a href="https://www.linkedin.com/in/hebbaa/"> Linkedin  </a> 
 
 <b> Creative Work </b>    <a href="https://www.flickr.com/photos/audiblecolor/"> Flickr </a>
-<br></br>
-<b><i>Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )</i></b>
+
+<br><b><i>Portfolio of Marketing Work ( articles, papers, videos, collateral etc. )</i></b></br>
 
 <a href="https://www.thefastmode.com/expert-opinion/34122-fighting-digital-pirates-on-the-informational-high-seas">Fighting Digital Pirates on the Informational High Seas</a>
 
