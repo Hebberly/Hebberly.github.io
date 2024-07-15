@@ -2,7 +2,7 @@
 
 Biography and Experience
 
-Marketer with more than fifteen years of experience launching software and hardware products covering AI, LLMs, blockchain, SaaS, electronics, and semiconductor solutions. I have experience leading marketing organizations and defining marketing strategy in startup environments. I am available for contract and long term projects.
+Marketer with seventeen years of experience launching AI, LLM, blockchain, SaaS, electronics, and semiconductor solutions, leading marketing organizations, and defining marketing strategy. I have experience in startup environments. I am available for contract and long term projects. I am available for contract and long term projects.
 
 <b> Work Experience </b>  <a href="https://www.linkedin.com/in/hebbaa/"> Linkedin  </a> 
 
