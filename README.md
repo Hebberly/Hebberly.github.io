@@ -1,1 +1,1 @@
-This page is a summary of Hebberly Ahatlan’s marketing background driving AI & SaaS company profits. The page covers his makerting experience, his published articles, previous startup roles, age, and personal interests
+This page is a summary of Hebberly Ahatlan’s marketing background driving Blockchain, AI & SaaS growth, covering his makerting experience, his published articles, previous startup roles, and personal interests
