@@ -16,4 +16,4 @@ This page is a summary of Hebberly Ahatlan's professional background as an angel
 
 🎓 ORCID: orcid.org/0009-0004-4440-950X
 
-🕸 https://www.hebberlyahatlan.com/
+🕸 Hebberlyahatlan.com
